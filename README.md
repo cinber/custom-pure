@@ -118,7 +118,7 @@ Specify the [`FISH_VERSION`][fish-releases] you want, and the `CMD` executed by 
     make build-pure-on FISH_VERSION=3.1.2
     make dev-pure-on FISH_VERSION=3.1.2 CMD="fishtape tests/*.test.fish"
 
-## :man_technologist: Original Repository by: Maintainer
+## :man_technologist: Maintainer: 
 - [Cina Ber](https://cinaber.de)
 
 ## :man_technologist: Original Repository by:

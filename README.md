@@ -1,5 +1,3 @@
-> ##### :arrow_up: Hey! Want to migrate from v3.x to v4.x? Check our [**migration guide**](https://github.com/pure-fish/pure/releases/tag/v4.0.0), done with :heart:
-
 # pure [![github-ci-badge]][github-ci-link] ![fish-3]
 
 > Pretty, minimal and fast Fish 🐟 prompt, ported from [`zsh`](https://github.com/sindresorhus/pure).
@@ -120,15 +118,11 @@ Specify the [`FISH_VERSION`][fish-releases] you want, and the `CMD` executed by 
     make build-pure-on FISH_VERSION=3.1.2
     make dev-pure-on FISH_VERSION=3.1.2 CMD="fishtape tests/*.test.fish"
 
-## :man_technologist: Maintainer
+## :man_technologist: Original Repository by: Maintainer
+- [Cina Ber](https://cinaber.de)
 
+## :man_technologist: Original Repository by:
 - [Édouard Lopez](https://github.com/edouard-lopez)
-
-## :clap: Thanks
-
-* [@andreiborisov](https://github.com/andreiborisov) for the [docker images][docker-images] ;
-* [@jorgebucaran](https://github.com/jorgebucaran/) for [fishtape](https://github.com/jorgebucaran/fishtape) ;
-* [@rafaelrinaldi](https://github.com/pure-fish/pure) for starting the project ;
 
 ## :classical_building: License
 
